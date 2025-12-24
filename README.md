@@ -42,7 +42,7 @@ Asegúrate de tener instalado **FFmpeg** en el sistema para el procesamiento de 
 
 ```bash
 # Clonar el núcleo del sistema
-git clone [https://github.com/TU_USUARIO/CARPRO-ENTERPRISE.git](https://github.com/TU_USUARIO/CARPRO-ENTERPRISE.git)
+git clone [https://github.com/carpro798/CARPRO-ENTERPRISE.git](https://github.com/carpro798/CARPRO-ENTERPRISE.git)
 
 # Acceder al directorio raíz
 cd CARPRO-ENTERPRISE
